@@ -1,0 +1,25 @@
+Third-party software used by Zax Editor
+=======================================
+
+Qt 6 (https://www.qt.io)
+  Licence: GNU LGPL v3. Zax Editor links Qt dynamically (modules Core, Gui,
+  Widgets; Test for the self-tests only). In a binary release the Qt libraries
+  shipped next to the editor can be replaced by the user, and a copy of the
+  LGPL v3 text is included with them. Qt source code:
+  https://download.qt.io/official_releases/qt/
+
+Capstone 5.0.7 (https://github.com/capstone-engine/capstone)
+  Licence: BSD 3-clause (third_party/capstone/LICENSE.TXT) and the LLVM licence
+  for the parts derived from LLVM (third_party/capstone/LICENSE_LLVM.TXT).
+  Vendored in third_party/capstone; only the X86 disassembler is built.
+  Used to read the class / property schema from the user's own game
+  executable.
+
+Icons8 (https://icons8.com)
+  The application, toolbar and menu icons in icons/, under the Icons8 free
+  licence (link required; shown in Legal.txt and in the About dialog).
+
+The editor's own source code is under the MIT License (LICENSE).
+
+No files of the original game are included. Zax Editor reads the user's own
+installation (Zax.exe, levels, textures, models) at run time.

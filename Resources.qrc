@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/app_icn.png</file>
+        <file>icons/app_save.png</file>
+        <file>icons/app_verify.png</file>
+        <file>icons/app_open.png</file>
+        <file>icons/app_fitmap.png</file>
+        <file>icons/menu/new_map.png</file>
+        <file>icons/menu/set_game_folder.png</file>
+        <file>icons/menu/snap_to_grid.png</file>
+        <file>icons/menu/About.png</file>
+    </qresource>
+</RCC>

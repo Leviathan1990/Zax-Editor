@@ -1,0 +1,40 @@
+Zax Editor - Unofficial Map Tool
+================================
+
+DISCLAIMER
+
+Zax Editor is an unofficial, free, fan-made map editing tool. It is not
+affiliated with, endorsed, sponsored or supported by the developers,
+publishers or rights holders of the game it edits maps for. All trademarks,
+game names and game content belong to their respective owners.
+
+No game files are included. Zax Editor does not contain or distribute any
+file, image, sound, text or data of the original game. It works only with a
+copy of the game that you own and have installed: at run time it reads that
+installation (for example to show the map graphics and to learn the map
+format from the game program). Nothing read from the game is sent anywhere.
+
+Use at your own risk. Zax Editor is provided "as is", without warranty of any
+kind, express or implied, including but not limited to the warranties of
+merchantability, fitness for a particular purpose and non-infringement. The
+authors are not liable for any claim, damage or other liability arising from
+the use of the software. Always keep a backup of your maps and of your game
+installation. Zax Editor never changes the game's own files unless you save a
+map over one of them yourself.
+
+Maps you create are your own work; when you share them, respect the rights of
+the game's owners and do not include files of the game with them.
+
+LICENCE
+
+The Zax Editor source code is released under the MIT License (see LICENSE).
+The licence does not cover the icons, the third-party software or anything
+of the game.
+
+CREDITS
+
+Application, toolbar and menu icons: Icons8 (https://icons8.com), used under
+the Icons8 free licence, which requires this link. They are not covered by
+the MIT License.
+
+Third-party software: see THIRD_PARTY_NOTICES.txt (Qt, LGPL v3; Capstone, BSD 3-clause).
